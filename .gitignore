@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bak
+*.log
+.env*
+prompt.txt
+.DS_Store
+Thumbs.db
